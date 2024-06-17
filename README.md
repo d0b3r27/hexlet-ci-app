@@ -1,3 +1,5 @@
+[![hexlet-ci-app](https://github.com/d0b3r27/hexlet-ci-app/actions/workflows/workflow.yml/badge.svg)](https://github.com/d0b3r27/hexlet-ci-app/actions/workflows/workflow.yml)
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
@@ -35,4 +37,3 @@ This repository is created and maintained by the team and the community of Hexle
 
 See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
 
-[![hexlet-ci-app](https://github.com/d0b3r27/hexlet-ci-app/actions/workflows/workflow.yml/badge.svg)](https://github.com/d0b3r27/hexlet-ci-app/actions/workflows/workflow.yml)
